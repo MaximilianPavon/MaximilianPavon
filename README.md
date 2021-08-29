@@ -1,4 +1,4 @@
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/maximilian-pavón-203165102/)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/maximilian-pavon/)
 
 - 👋 Hi, I’m Max.
 - 👨‍💻 I'm currently working as a Data Scientist at [Wolt](https://github.com/woltapp)
